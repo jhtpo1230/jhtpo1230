@@ -1,7 +1,7 @@
 ### 👋 Hi there
 
 - 👋 Hi, I’m JeongChulKim
-- 👀 I’m interested in Computer Vision & Deep Learning
+- 👀 I’m interested in 
 - 📫 How to reach me -> rlawjdcjf411@naver.com
 
 <!---
