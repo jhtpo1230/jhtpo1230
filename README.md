@@ -1,7 +1,7 @@
-### 👋 Hi there
+### I don't know about ME
 
-- 👋 Hi, I’m JeongChulKim
-- 👀 I’m interested in 
+- 👋 I’m JeongChulKim
+- 👀 I’m interested in..?
 - 📫 How to reach me -> rlawjdcjf411@naver.com
 
 <!---
