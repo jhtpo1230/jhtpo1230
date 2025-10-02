@@ -16,17 +16,17 @@
     <td align="center">
       <strong>Backend</strong><br>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,spring,gradle,nestjs" alt="Backend Skills">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,spring" alt="Backend Skills">
       </a>
       <br>
-      <code>Node.js</code>, <code>Express</code>, <code>Spring</code><code>NestJS</code>
+      <code>Node.js</code>, <code>Express</code>, <code>Spring</code>
     </td>
   </tr>
   <tr>
     <td align="center">
       <strong>Database</strong><br>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mysql,dynamodb" alt="Database Skills">
+        <img src="https://skillicons.dev/icons?i=mysql,mariaDB" alt="Database Skills">
       </a>
       <br>
       <code>MySQL</code>, <code>mariaDB</code>
@@ -44,7 +44,7 @@
     <td align="center">
       <strong>Tools</strong><br>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github" alt="Git Tools">
+        <img src="https://skillicons.dev/icons?i=git,github,Docker" alt="Tools">
       </a>
       <br>
       <code>Git</code>, <code>GitHub</code>, <code>Docker</code>
