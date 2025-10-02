@@ -1,7 +1,7 @@
-### I don't know about ME
+### About ME
 
 - 👋 I’m JeongChulKim
-- 👀 I’m interested in..?
+- 👀 I’m interested in BackEnd Developer
 - 📫 How to reach me -> rlawjdcjf411@naver.com
 
 ### I will be a backend developer
