@@ -7,7 +7,7 @@
 ## 💡 About Me
 
 
-- 🏫 SEOKYEONG UNIVERSITY (Dep.Software, GPA. 4.0/4.5)
+- 🏫 SEOKYEONG UNIVERSITY (B.S. in Software Engineering, GPA: 4.0/4.5)
   <sub>2019.03 ~ 2025.02</sub>
 - 🏢 LS Ware Company Internship (Software QA Dep)
   <sub>2023.06.26 ~ 2023.08.25</sub>
